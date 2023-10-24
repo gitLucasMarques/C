@@ -1,2 +1,2 @@
 # C
-linguagem c
+Repositório de C
